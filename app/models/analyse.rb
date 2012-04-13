@@ -1,0 +1,2 @@
+class Analyse < GroupeAlphaActualite
+end

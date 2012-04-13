@@ -1,0 +1,2 @@
+class Evenement < GroupeAlphaActualite
+end

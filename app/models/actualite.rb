@@ -1,0 +1,2 @@
+class Actualite < GroupeAlphaActualite
+end

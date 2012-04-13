@@ -1,0 +1,2 @@
+class CommuniquePresse < GroupeAlphaActualite
+end

@@ -1,8 +1,7 @@
-GIT
-  remote: git://github.com/suruja/rss-feed.git
-  revision: b3a026ff6a374113053c1d5a53f69afd7ff87d90
+PATH
+  remote: ../rss-feed/
   specs:
-    rss-feed (0.6.0)
+    rss-feed (0.8.2)
       feedzirra
 
 GEM
@@ -79,7 +78,7 @@ GEM
     mime-types (1.18)
     mongo (1.6.2)
       bson (~> 1.6.2)
-    mongoid (2.4.7)
+    mongoid (2.4.8)
       activemodel (~> 3.1)
       mongo (~> 1.3)
       tzinfo (~> 0.3.22)
@@ -90,12 +89,8 @@ GEM
       coderay (~> 1.0.5)
       method_source (~> 0.7.1)
       slop (>= 2.4.4, < 3)
-    pry-doc (0.3.0)
-      pry (>= 0.9.0)
-      yard (>= 0.6.4)
-    pry-rails (0.0.4)
+    pry-rails (0.1.6)
       pry
-      pry-doc
     rack (1.4.1)
     rack-cache (1.2)
       rack (>= 0.4)

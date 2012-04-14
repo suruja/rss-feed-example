@@ -7,7 +7,7 @@ gem 'rails', '3.2.0'
 
 gem "mongoid", "~> 2.4"
 gem "bson_ext", "~> 1.5"
-gem "rss-feed", :git => "git://github.com/suruja/rss-feed.git"
+gem "rss-feed"
 gem "whenever", :require => false
 
 # Gems used only for assets and not required

@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-RssCronsExample::Application.load_tasks
+RssFeedExample::Application.load_tasks

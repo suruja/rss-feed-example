@@ -1,10 +1,10 @@
 development:
   host: localhost
-  database: rss_crons_example_development
+  database: rss_feed_example_development
 
 test:
   host: localhost
-  database: rss_crons_example_test
+  database: rss_feed_example_test
 
 # set these environment variables on your prod server
 production:
